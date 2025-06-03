@@ -1,0 +1,174 @@
+{
+  "entries" : [ {
+    "section" : "CSF213-L2",
+    "classroom" : "COMPLAB1",
+    "timeSlot" : {
+      "dayOfWeek" : "FRIDAY",
+      "startHour" : 11,
+      "startMinute" : 0,
+      "durationMinutes" : 120
+    }
+  }, {
+    "section" : "CSF214-L2",
+    "classroom" : "COMPLAB1",
+    "timeSlot" : {
+      "dayOfWeek" : "TUESDAY",
+      "startHour" : 12,
+      "startMinute" : 0,
+      "durationMinutes" : 60
+    }
+  }, {
+    "section" : "PHYF110-L2",
+    "classroom" : "COMPLAB1",
+    "timeSlot" : {
+      "dayOfWeek" : "FRIDAY",
+      "startHour" : 11,
+      "startMinute" : 0,
+      "durationMinutes" : 90
+    }
+  }, {
+    "section" : "PHYF111-L2",
+    "classroom" : "COMPLAB1",
+    "timeSlot" : {
+      "dayOfWeek" : "THURSDAY",
+      "startHour" : 12,
+      "startMinute" : 0,
+      "durationMinutes" : 90
+    }
+  }, {
+    "section" : "CHEMF150-L2",
+    "classroom" : "COMPLAB1",
+    "timeSlot" : {
+      "dayOfWeek" : "FRIDAY",
+      "startHour" : 10,
+      "startMinute" : 0,
+      "durationMinutes" : 120
+    }
+  }, {
+    "section" : "BIOF130-L2",
+    "classroom" : "COMPLAB1",
+    "timeSlot" : {
+      "dayOfWeek" : "TUESDAY",
+      "startHour" : 8,
+      "startMinute" : 0,
+      "durationMinutes" : 120
+    }
+  }, {
+    "section" : "CSF213-L1",
+    "classroom" : "LT1",
+    "timeSlot" : {
+      "dayOfWeek" : "FRIDAY",
+      "startHour" : 10,
+      "startMinute" : 0,
+      "durationMinutes" : 60
+    }
+  }, {
+    "section" : "CSF214-L1",
+    "classroom" : "LT1",
+    "timeSlot" : {
+      "dayOfWeek" : "FRIDAY",
+      "startHour" : 8,
+      "startMinute" : 0,
+      "durationMinutes" : 60
+    }
+  }, {
+    "section" : "MATHF101-L1",
+    "classroom" : "LT1",
+    "timeSlot" : {
+      "dayOfWeek" : "TUESDAY",
+      "startHour" : 13,
+      "startMinute" : 0,
+      "durationMinutes" : 90
+    }
+  }, {
+    "section" : "MATHF102-L1",
+    "classroom" : "LT1",
+    "timeSlot" : {
+      "dayOfWeek" : "THURSDAY",
+      "startHour" : 14,
+      "startMinute" : 0,
+      "durationMinutes" : 120
+    }
+  }, {
+    "section" : "CSF215-L1",
+    "classroom" : "LT1",
+    "timeSlot" : {
+      "dayOfWeek" : "THURSDAY",
+      "startHour" : 10,
+      "startMinute" : 0,
+      "durationMinutes" : 90
+    }
+  }, {
+    "section" : "PHYF110-L1",
+    "classroom" : "LT1",
+    "timeSlot" : {
+      "dayOfWeek" : "WEDNESDAY",
+      "startHour" : 15,
+      "startMinute" : 0,
+      "durationMinutes" : 90
+    }
+  }, {
+    "section" : "PHYF111-L1",
+    "classroom" : "LT1",
+    "timeSlot" : {
+      "dayOfWeek" : "MONDAY",
+      "startHour" : 9,
+      "startMinute" : 0,
+      "durationMinutes" : 90
+    }
+  }, {
+    "section" : "ECONF211-L1",
+    "classroom" : "LT1",
+    "timeSlot" : {
+      "dayOfWeek" : "THURSDAY",
+      "startHour" : 14,
+      "startMinute" : 0,
+      "durationMinutes" : 90
+    }
+  }, {
+    "section" : "ECONF212-L1",
+    "classroom" : "LT1",
+    "timeSlot" : {
+      "dayOfWeek" : "MONDAY",
+      "startHour" : 16,
+      "startMinute" : 0,
+      "durationMinutes" : 90
+    }
+  }, {
+    "section" : "CHEMF150-L1",
+    "classroom" : "LT1",
+    "timeSlot" : {
+      "dayOfWeek" : "TUESDAY",
+      "startHour" : 15,
+      "startMinute" : 0,
+      "durationMinutes" : 90
+    }
+  }, {
+    "section" : "BIOF130-L1",
+    "classroom" : "LT1",
+    "timeSlot" : {
+      "dayOfWeek" : "TUESDAY",
+      "startHour" : 12,
+      "startMinute" : 0,
+      "durationMinutes" : 120
+    }
+  }, {
+    "section" : "CSF213-T1",
+    "classroom" : "LT1",
+    "timeSlot" : {
+      "dayOfWeek" : "FRIDAY",
+      "startHour" : 13,
+      "startMinute" : 0,
+      "durationMinutes" : 90
+    }
+  }, {
+    "section" : "CSF214-T1",
+    "classroom" : "LT1",
+    "timeSlot" : {
+      "dayOfWeek" : "FRIDAY",
+      "startHour" : 14,
+      "startMinute" : 0,
+      "durationMinutes" : 120
+    }
+  } ]
+}

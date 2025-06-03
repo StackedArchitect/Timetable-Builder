@@ -1,0 +1,267 @@
+[ {
+  "sectionID" : "CSF213-L1",
+  "parentCourse" : "CSF213",
+  "instructor" : "T001",
+  "type" : "LECTURE",
+  "sectionCapacity" : 100,
+  "timeSlot" : {
+    "dayOfWeek" : "MONDAY",
+    "startHour" : 9,
+    "startMinute" : 0,
+    "durationMinutes" : 50
+  },
+  "requiredComputers" : 0,
+  "enrolledStudents" : [ "S001" ]
+}, {
+  "sectionID" : "CSF213-T1",
+  "parentCourse" : "CSF213",
+  "instructor" : "T001",
+  "type" : "TUTORIAL",
+  "sectionCapacity" : 30,
+  "timeSlot" : {
+    "dayOfWeek" : "WEDNESDAY",
+    "startHour" : 14,
+    "startMinute" : 0,
+    "durationMinutes" : 110
+  },
+  "requiredComputers" : 0,
+  "enrolledStudents" : [ ]
+}, {
+  "sectionID" : "CSF213-L2",
+  "parentCourse" : "CSF213",
+  "instructor" : "T001",
+  "type" : "LAB",
+  "sectionCapacity" : 50,
+  "timeSlot" : {
+    "dayOfWeek" : "TUESDAY",
+    "startHour" : 10,
+    "startMinute" : 0,
+    "durationMinutes" : 50
+  },
+  "requiredComputers" : 50,
+  "enrolledStudents" : [ ]
+}, {
+  "sectionID" : "CSF214-L1",
+  "parentCourse" : "CSF214",
+  "instructor" : "T001",
+  "type" : "LECTURE",
+  "sectionCapacity" : 100,
+  "timeSlot" : {
+    "dayOfWeek" : "TUESDAY",
+    "startHour" : 10,
+    "startMinute" : 0,
+    "durationMinutes" : 50
+  },
+  "requiredComputers" : 0,
+  "enrolledStudents" : [ "S001" ]
+}, {
+  "sectionID" : "CSF214-T1",
+  "parentCourse" : "CSF214",
+  "instructor" : "T001",
+  "type" : "TUTORIAL",
+  "sectionCapacity" : 30,
+  "timeSlot" : {
+    "dayOfWeek" : "WEDNESDAY",
+    "startHour" : 14,
+    "startMinute" : 0,
+    "durationMinutes" : 110
+  },
+  "requiredComputers" : 0,
+  "enrolledStudents" : [ ]
+}, {
+  "sectionID" : "CSF214-L2",
+  "parentCourse" : "CSF214",
+  "instructor" : "T001",
+  "type" : "LAB",
+  "sectionCapacity" : 50,
+  "timeSlot" : {
+    "dayOfWeek" : "TUESDAY",
+    "startHour" : 10,
+    "startMinute" : 0,
+    "durationMinutes" : 50
+  },
+  "requiredComputers" : 50,
+  "enrolledStudents" : [ ]
+}, {
+  "sectionID" : "CSF215-L1",
+  "parentCourse" : "CSF215",
+  "instructor" : "T001",
+  "type" : "LECTURE",
+  "sectionCapacity" : 80,
+  "timeSlot" : {
+    "dayOfWeek" : "MONDAY",
+    "startHour" : 15,
+    "startMinute" : 0,
+    "durationMinutes" : 50
+  },
+  "requiredComputers" : 0,
+  "enrolledStudents" : [ ]
+}, {
+  "sectionID" : "ECONF211-L1",
+  "parentCourse" : "ECONF211",
+  "instructor" : "T007",
+  "type" : "LECTURE",
+  "sectionCapacity" : 60,
+  "timeSlot" : {
+    "dayOfWeek" : "MONDAY",
+    "startHour" : 15,
+    "startMinute" : 0,
+    "durationMinutes" : 50
+  },
+  "requiredComputers" : 0,
+  "enrolledStudents" : [ "S001" ]
+}, {
+  "sectionID" : "ECONF212-L1",
+  "parentCourse" : "ECONF212",
+  "instructor" : "T007",
+  "type" : "LECTURE",
+  "sectionCapacity" : 60,
+  "timeSlot" : {
+    "dayOfWeek" : "MONDAY",
+    "startHour" : 15,
+    "startMinute" : 0,
+    "durationMinutes" : 50
+  },
+  "requiredComputers" : 0,
+  "enrolledStudents" : [ ]
+}, {
+  "sectionID" : "PHYF110-L1",
+  "parentCourse" : "PHYF110",
+  "instructor" : "T002",
+  "type" : "LECTURE",
+  "sectionCapacity" : 80,
+  "timeSlot" : {
+    "dayOfWeek" : "MONDAY",
+    "startHour" : 14,
+    "startMinute" : 30,
+    "durationMinutes" : 50
+  },
+  "requiredComputers" : 0,
+  "enrolledStudents" : [ ]
+}, {
+  "sectionID" : "PHYF110-L2",
+  "parentCourse" : "PHYF110",
+  "instructor" : "T002",
+  "type" : "LAB",
+  "sectionCapacity" : 40,
+  "timeSlot" : {
+    "dayOfWeek" : "TUESDAY",
+    "startHour" : 14,
+    "startMinute" : 30,
+    "durationMinutes" : 50
+  },
+  "requiredComputers" : 10,
+  "enrolledStudents" : [ ]
+}, {
+  "sectionID" : "PHYF111-L1",
+  "parentCourse" : "PHYF111",
+  "instructor" : "T004",
+  "type" : "LECTURE",
+  "sectionCapacity" : 80,
+  "timeSlot" : {
+    "dayOfWeek" : "MONDAY",
+    "startHour" : 14,
+    "startMinute" : 30,
+    "durationMinutes" : 50
+  },
+  "requiredComputers" : 0,
+  "enrolledStudents" : [ ]
+}, {
+  "sectionID" : "PHYF111-L2",
+  "parentCourse" : "PHYF111",
+  "instructor" : "T004",
+  "type" : "LAB",
+  "sectionCapacity" : 40,
+  "timeSlot" : {
+    "dayOfWeek" : "TUESDAY",
+    "startHour" : 14,
+    "startMinute" : 30,
+    "durationMinutes" : 50
+  },
+  "requiredComputers" : 10,
+  "enrolledStudents" : [ ]
+}, {
+  "sectionID" : "MATHF101-L1",
+  "parentCourse" : "MATHF101",
+  "instructor" : "T003",
+  "type" : "LECTURE",
+  "sectionCapacity" : 100,
+  "timeSlot" : {
+    "dayOfWeek" : "MONDAY",
+    "startHour" : 14,
+    "startMinute" : 30,
+    "durationMinutes" : 50
+  },
+  "requiredComputers" : 0,
+  "enrolledStudents" : [ ]
+}, {
+  "sectionID" : "MATHF102-L1",
+  "parentCourse" : "MATHF102",
+  "instructor" : "T003",
+  "type" : "LECTURE",
+  "sectionCapacity" : 100,
+  "timeSlot" : {
+    "dayOfWeek" : "MONDAY",
+    "startHour" : 14,
+    "startMinute" : 30,
+    "durationMinutes" : 50
+  },
+  "requiredComputers" : 0,
+  "enrolledStudents" : [ ]
+}, {
+  "sectionID" : "CHEMF150-L1",
+  "parentCourse" : "CHEMF150",
+  "instructor" : "T005",
+  "type" : "LECTURE",
+  "sectionCapacity" : 60,
+  "timeSlot" : {
+    "dayOfWeek" : "MONDAY",
+    "startHour" : 14,
+    "startMinute" : 30,
+    "durationMinutes" : 50
+  },
+  "requiredComputers" : 0,
+  "enrolledStudents" : [ ]
+}, {
+  "sectionID" : "CHEMF150-L2",
+  "parentCourse" : "CHEMF150",
+  "instructor" : "T005",
+  "type" : "LAB",
+  "sectionCapacity" : 35,
+  "timeSlot" : {
+    "dayOfWeek" : "TUESDAY",
+    "startHour" : 14,
+    "startMinute" : 30,
+    "durationMinutes" : 50
+  },
+  "requiredComputers" : 0,
+  "enrolledStudents" : [ ]
+}, {
+  "sectionID" : "BIOF130-L1",
+  "parentCourse" : "BIOF130",
+  "instructor" : "T006",
+  "type" : "LECTURE",
+  "sectionCapacity" : 60,
+  "timeSlot" : {
+    "dayOfWeek" : "MONDAY",
+    "startHour" : 14,
+    "startMinute" : 30,
+    "durationMinutes" : 50
+  },
+  "requiredComputers" : 0,
+  "enrolledStudents" : [ ]
+}, {
+  "sectionID" : "BIOF130-L2",
+  "parentCourse" : "BIOF130",
+  "instructor" : "T006",
+  "type" : "LAB",
+  "sectionCapacity" : 30,
+  "timeSlot" : {
+    "dayOfWeek" : "TUESDAY",
+    "startHour" : 14,
+    "startMinute" : 30,
+    "durationMinutes" : 50
+  },
+  "requiredComputers" : 5,
+  "enrolledStudents" : [ ]
+} ]

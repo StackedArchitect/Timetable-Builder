@@ -1,0 +1,86 @@
+[ {
+  "username" : "admin",
+  "passwordHash" : "$2a$10$PLACEHOLDER_HASH_FOR_admin123",
+  "role" : "ADMIN",
+  "associatedID" : "A001"
+}, {
+  "username" : "admin2",
+  "passwordHash" : "$2a$10$PLACEHOLDER_HASH_FOR_admin123",
+  "role" : "ADMIN",
+  "associatedID" : "A002"
+}, {
+  "username" : "xavier",
+  "passwordHash" : "$2a$10$PLACEHOLDER_HASH_FOR_pass123",
+  "role" : "TEACHER",
+  "associatedID" : "T001"
+}, {
+  "username" : "strange",
+  "passwordHash" : "$2a$10$PLACEHOLDER_HASH_FOR_pass123",
+  "role" : "TEACHER",
+  "associatedID" : "T002"
+}, {
+  "username" : "mcgonagall",
+  "passwordHash" : "$2a$10$PLACEHOLDER_HASH_FOR_pass123",
+  "role" : "TEACHER",
+  "associatedID" : "T003"
+}, {
+  "username" : "hawking",
+  "passwordHash" : "$2a$10$PLACEHOLDER_HASH_FOR_pass123",
+  "role" : "TEACHER",
+  "associatedID" : "T004"
+}, {
+  "username" : "dumbledore",
+  "passwordHash" : "$2a$10$PLACEHOLDER_HASH_FOR_pass123",
+  "role" : "TEACHER",
+  "associatedID" : "T005"
+}, {
+  "username" : "watson",
+  "passwordHash" : "$2a$10$PLACEHOLDER_HASH_FOR_pass123",
+  "role" : "TEACHER",
+  "associatedID" : "T006"
+}, {
+  "username" : "bond",
+  "passwordHash" : "$2a$10$PLACEHOLDER_HASH_FOR_pass123",
+  "role" : "TEACHER",
+  "associatedID" : "T007"
+}, {
+  "username" : "alice",
+  "passwordHash" : "$2a$10$PLACEHOLDER_HASH_FOR_pass123",
+  "role" : "STUDENT",
+  "associatedID" : "S001"
+}, {
+  "username" : "bob",
+  "passwordHash" : "$2a$10$PLACEHOLDER_HASH_FOR_pass123",
+  "role" : "STUDENT",
+  "associatedID" : "S002"
+}, {
+  "username" : "charlie",
+  "passwordHash" : "$2a$10$PLACEHOLDER_HASH_FOR_pass123",
+  "role" : "STUDENT",
+  "associatedID" : "S003"
+}, {
+  "username" : "diana",
+  "passwordHash" : "$2a$10$PLACEHOLDER_HASH_FOR_pass123",
+  "role" : "STUDENT",
+  "associatedID" : "S004"
+}, {
+  "username" : "eddie",
+  "passwordHash" : "$2a$10$PLACEHOLDER_HASH_FOR_pass123",
+  "role" : "STUDENT",
+  "associatedID" : "S005"
+}, {
+  "username" : "fiona",
+  "passwordHash" : "$2a$10$PLACEHOLDER_HASH_FOR_pass123",
+  "role" : "STUDENT",
+  "associatedID" : "S006"
+}, {
+  "username" : "george",
+  "passwordHash" : "$2a$10$PLACEHOLDER_HASH_FOR_pass123",
+  "role" : "STUDENT",
+  "associatedID" : "S007"
+}, {
+  "username" : "harry",
+  "passwordHash" : "$2a$10$PLACEHOLDER_HASH_FOR_pass123",
+  "role" : "STUDENT",
+  "associatedID" : "S008"
+} ]

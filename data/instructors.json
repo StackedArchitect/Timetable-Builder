@@ -1,0 +1,22 @@
+[ {
+  "instructorID" : "T001",
+  "name" : "Prof. Xavier"
+}, {
+  "instructorID" : "T002",
+  "name" : "Dr. Strange"
+}, {
+  "instructorID" : "T003",
+  "name" : "Prof. McGonagall"
+}, {
+  "instructorID" : "T004",
+  "name" : "Dr. Hawking"
+}, {
+  "instructorID" : "T005",
+  "name" : "Prof. Dumbledore"
+}, {
+  "instructorID" : "T006",
+  "name" : "Dr. Watson"
+}, {
+  "instructorID" : "T007",
+  "name" : "Prof. Bond"
+} ]

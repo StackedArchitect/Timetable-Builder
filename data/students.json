@@ -1,0 +1,42 @@
+[
+  {
+    "studentID" : "S001",
+    "name" : "Alice Wonderland",
+    "enrolledSections" : ["CSF213-L1", "CSF214-L1", "ECONF211-L1"]
+  },
+  {
+    "studentID" : "S002",
+    "name" : "Bob Builder",
+    "enrolledSections" : ["CSF213-L1", "CSF214-L1", "CSF215-L1"]
+  },
+  {
+    "studentID" : "S003",
+    "name" : "Charlie Chaplin",
+    "enrolledSections" : ["PHYF110-L1", "PHYF110-L2", "MATHF101-L1"]
+  },
+  {
+    "studentID" : "S004",
+    "name" : "Diana Prince",
+    "enrolledSections" : ["PHYF111-L1", "PHYF111-L2", "MATHF102-L1"]
+  },
+  {
+    "studentID" : "S005",
+    "name" : "Eddie Murphy",
+    "enrolledSections" : ["CHEMF150-L1", "CHEMF150-L2", "BIOF130-L1"]
+  },
+  {
+    "studentID" : "S006",
+    "name" : "Fiona Shrek",
+    "enrolledSections" : ["BIOF130-L1", "BIOF130-L2", "ECONF212-L1"]
+  },
+  {
+    "studentID" : "S007",
+    "name" : "George Washington",
+    "enrolledSections" : ["ECONF211-L1", "ECONF212-L1", "MATHF101-L1"]
+  },
+  {
+    "studentID" : "S008",
+    "name" : "Harry Potter",
+    "enrolledSections" : ["MATHF101-L1", "MATHF102-L1", "CSF215-L1"]
+  }
+]

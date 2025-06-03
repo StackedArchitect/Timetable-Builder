@@ -1,0 +1,45 @@
+[ {
+  "courseCode" : "CSF213",
+  "courseName" : "Object Oriented Programming",
+  "conflictingCourses" : [ "CSF214" ]
+}, {
+  "courseCode" : "CSF214",
+  "courseName" : "Data Structures & Algorithms",
+  "conflictingCourses" : [ "CSF213", "CSF215" ]
+}, {
+  "courseCode" : "CSF215",
+  "courseName" : "Digital Design",
+  "conflictingCourses" : [ "CSF214" ]
+}, {
+  "courseCode" : "ECONF211",
+  "courseName" : "Microeconomics",
+  "conflictingCourses" : [ "ECONF212" ]
+}, {
+  "courseCode" : "ECONF212",
+  "courseName" : "Macroeconomics",
+  "conflictingCourses" : [ "ECONF211" ]
+}, {
+  "courseCode" : "PHYF110",
+  "courseName" : "Classical Mechanics",
+  "conflictingCourses" : [ "PHYF111" ]
+}, {
+  "courseCode" : "PHYF111",
+  "courseName" : "Electromagnetism",
+  "conflictingCourses" : [ "PHYF110" ]
+}, {
+  "courseCode" : "MATHF101",
+  "courseName" : "Calculus",
+  "conflictingCourses" : [ ]
+}, {
+  "courseCode" : "MATHF102",
+  "courseName" : "Linear Algebra",
+  "conflictingCourses" : [ ]
+}, {
+  "courseCode" : "CHEMF150",
+  "courseName" : "Organic Chemistry",
+  "conflictingCourses" : [ ]
+}, {
+  "courseCode" : "BIOF130",
+  "courseName" : "Cell Biology",
+  "conflictingCourses" : [ ]
+} ]

@@ -1,0 +1,56 @@
+[ {
+  "classroomID" : "LT1",
+  "capacity" : 120,
+  "numComputers" : 0,
+  "lab" : false
+}, {
+  "classroomID" : "LT2",
+  "capacity" : 100,
+  "numComputers" : 0,
+  "lab" : false
+}, {
+  "classroomID" : "COMPLAB1",
+  "capacity" : 50,
+  "numComputers" : 50,
+  "lab" : true
+}, {
+  "classroomID" : "COMPLAB2",
+  "capacity" : 30,
+  "numComputers" : 30,
+  "lab" : true
+}, {
+  "classroomID" : "PHYSLAB1",
+  "capacity" : 40,
+  "numComputers" : 10,
+  "lab" : true
+}, {
+  "classroomID" : "CHEMLAB1",
+  "capacity" : 35,
+  "numComputers" : 0,
+  "lab" : true
+}, {
+  "classroomID" : "BIOLAB1",
+  "capacity" : 30,
+  "numComputers" : 5,
+  "lab" : true
+}, {
+  "classroomID" : "CR1",
+  "capacity" : 60,
+  "numComputers" : 0,
+  "lab" : false
+}, {
+  "classroomID" : "CR2",
+  "capacity" : 50,
+  "numComputers" : 0,
+  "lab" : false
+}, {
+  "classroomID" : "CR3",
+  "capacity" : 40,
+  "numComputers" : 0,
+  "lab" : false
+}, {
+  "classroomID" : "CR4",
+  "capacity" : 30,
+  "numComputers" : 0,
+  "lab" : false
+} ]
